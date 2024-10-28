@@ -54,9 +54,8 @@ El dashboard de Power BI visualiza los hallazgos del EDA de forma interactiva. I
     Principales Géneros/Categorías: Categorías y géneros más populares en Netflix.
 
 Vista Previa del Dashboard
+![imagen](https://github.com/user-attachments/assets/97567bf5-6ea1-4255-82fa-3762776cc502)
 
-Incluye una captura de pantalla de tu dashboard de Power BI aquí para dar a los visitantes una vista previa de las visualizaciones.
-Cómo Utilizar Este Repositorio
 
     Notebook Jupyter:
         Abre netflix_analisis.ipynb para explorar el análisis de datos y las visualizaciones usando Python.
